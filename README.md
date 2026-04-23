@@ -4,6 +4,33 @@ Welcome to my portfolio! This is a showcase of my projects spanning mobile devel
 
 ---
 
+## 📚 Featured Projects
+
+I'm constantly building and refining projects that demonstrate my technical expertise and creative problem-solving abilities. Each project represents a journey of learning and innovation.
+
+### My Work
+
+- 📱 **Mobile Development** - Building iOS and Android applications with intuitive user experiences
+- 🎮 **Interactive Applications** - Creating engaging games and interactive experiences
+- 🤖 **AI & Computer Vision** - Developing intelligent applications using deep learning and vision technologies
+- 🛠️ **Full-Stack Solutions** - Building robust web and utility applications
+- 💡 **Problem Solving** - Creating elegant solutions to complex technical challenges
+- 🚀 **Innovation** - Exploring new technologies and best practices
+
+---
+
+## 🛠️ Technologies & Skills
+
+I work with a diverse stack of technologies including:
+- **Mobile**: Swift (iOS), Kotlin (Android)
+- **Web**: JavaScript, Python, databases, and modern frameworks
+- **AI/ML**: Deep Learning, Computer Vision, TensorFlow
+- **Tools**: Git, version control, and collaborative development practices
+
+I'm always eager to learn and adapt to new tools and methodologies.
+
+---
+
 ## 📱 Projects
 
 ### Mobile Apps - iOS
@@ -42,11 +69,6 @@ Welcome to my portfolio! This is a showcase of my projects spanning mobile devel
 - [**git_practice**](https://github.com/jeniferp0122/git_practice) - Git version control practice
 - [**challenge**](https://github.com/jeniferp0122/challenge) - Coding challenge projects
 - [**newProject**](https://github.com/jeniferp0122/newProject) - Experimental project
-
----
-
-## 💡 About
-A specialized profile README acts as your digital storefront. It is the first thing visitors see and can humanize your technical work. Here you'll find a collection of projects demonstrating my skills in full-stack development, mobile applications, AI/ML applications, and problem-solving.
 
 ---
 
