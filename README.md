@@ -1,6 +1,6 @@
 # Hi, I'm Jenifer 👋
 
-Welcome to my portfolio! This is a showcase of my projects spanning full stack develipment, mobile development, web applications, and computer vision applications.
+Welcome to my portfolio! This is a showcase of my projects spanning full stack development, mobile development, web applications, and computer vision applications.
 
 ---
 
